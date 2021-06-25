@@ -1,5 +1,5 @@
 # Eyes
-Class assignment in MIT Full Stack class to make eyes move with mouse
+Assignment in MIT Full Stack class to make eyes move with mouse.
 
 ## Requirements
 A text or code editor, such as Visual Studio.  
